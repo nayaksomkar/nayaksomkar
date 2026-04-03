@@ -1,29 +1,68 @@
-### Hi there 👋 I'm Nayak Omkar (@nayaksomkar)
+<div align="center">
 
-Proficient in Python for AI/ML development, model training, and fine-tuning of various LLMs.
+<code>
 
----
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 
-🧠 **What I Do**
-- Build AI/ML solutions using **Python**, **TensorFlow**, **PyTorch**, and **Unsloth**
-- Explore **MLOps** pipelines with **Azure** and **AWS**
-- Work on **cloud**, **containerization**, and **version control**
-- Fine-tune **Large Language Models (LLMs)** locally and via APIs
+███╗   ██╗ █████╗ ██╗   ██╗ █████╗ ██╗  ██╗      ██████╗ ███╗   ███╗██╗  ██╗ █████╗ ██████╗
+████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██║ ██╔╝     ██╔═══██╗████╗ ████║██║ ██╔╝██╔══██╗██╔══██╗
+██╔██╗ ██║███████║ ╚████╔╝ ███████║█████╔╝      ██║   ██║██╔████╔██║█████╔╝ ███████║██████╔╝
+██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══██║██╔═██╗      ██║   ██║██║╚██╔╝██║██╔═██╗ ██╔══██║██╔══██╗
+██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██╗     ╚██████╔╝██║ ╚═╝ ██║██║  ██╗██║  ██║██║  ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
----
+                 
 
-📫 **Let's Connect**
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 
-<p>
-  <a href="https://linktr.ee/nayaksomkar" target="_blank">
-    <img src="https://cdn.brandfetch.io/id_tNIm05N/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070418511" width="40" alt="Linktree" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bsky.app/profile/nayaksomkar.bsky.social" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1024px-Bluesky_Logo.svg.png" width="40" alt="Bluesky" />
-  </a>
-</p>
+</code>
 
----
+<br>
+<p> ✦  नायक Omkar  ✦ </p>
+<p> AI Engineer building intelligent LLM systems, scalable RAG pipelines, and automation workflows </p>
 
-*Thanks for visiting my profile!*
+
+# 🛠️ Skill Stack
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,js,go&theme=dark" />
+
+✨ Python • ⚡ JavaScript • 🚀 Go
+
+<br>
+
+### 🤖 AI & LLM Stack
+<img src="https://cdn.simpleicons.org/langchain" width="45"/>
+<img src="https://cdn.simpleicons.org/n8n" width="45"/>
+<img src="https://cdn.simpleicons.org/openai" width="45"/>
+
+🧠 Unsloth • 🔗 LangChain • 🌐 LangGraph • 📚 RAG • ⚙️ n8n
+
+<br>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+<img src="https://cdn.simpleicons.org/chroma" width="45"/>
+
+🍃 MongoDB • 🐘 PostgreSQL • 🔎 ChromaDB
+
+<br>
+
+### ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" />
+
+☁️ Azure
+
+<br><br>
+
+### 📫 Connect
+
+<a href="https://bsky.app/profile/nayaksomkar.bsky.social">
+<img src="https://cdn.simpleicons.org/bluesky" width="40" />
+</a>
+
+<br><br>
+
+✨ Building Intelligent Systems • One at a Time • @nayaksomkar ✨
+
+</div>
