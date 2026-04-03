@@ -69,13 +69,6 @@ Flask • FastAPI
 
 <br>
 
-### ☁️ Cloud
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" />
-
-☁️ Azure
-
-<br><br>
-
 ### 📫 Connect
 
 <a href="https://bsky.app/profile/nayaksomkar.bsky.social">
