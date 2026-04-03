@@ -42,9 +42,11 @@ TensorFlow • PyTorch • NumPy • Pandas • Scikit-Learn • Matplotlib • 
 <br>
 
 ### ⚙️ Frameworks
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" />
 
-Flask
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="70"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="70"/>
+
+Flask • FastAPI
 
 <br>
 
