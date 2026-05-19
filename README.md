@@ -1,82 +1,77 @@
 <div align="center">
 
-<code>
+# ✦ नायक Omkar ✦
 
-✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+### AI Engineer • LLM Systems • Intelligent Automation
 
-███╗   ██╗ █████╗ ██╗   ██╗ █████╗ ██╗  ██╗      ██████╗ ███╗   ███╗██╗  ██╗ █████╗ ██████╗
-████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██║ ██╔╝     ██╔═══██╗████╗ ████║██║ ██╔╝██╔══██╗██╔══██╗
-██╔██╗ ██║███████║ ╚████╔╝ ███████║█████╔╝      ██║   ██║██╔████╔██║█████╔╝ ███████║██████╔╝
-██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══██║██╔═██╗      ██║   ██║██║╚██╔╝██║██╔═██╗ ██╔══██║██╔══██╗
-██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██╗     ╚██████╔╝██║ ╚═╝ ██║██║  ██╗██║  ██║██║  ██║
-╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-
-✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
-
-</code>
+> Building scalable AI backends, RAG pipelines, and intelligent workflows.
 
 <br>
 
-<p> ✦ नायक Omkar ✦ </p>
-<p> AI Engineer building intelligent LLM systems, scalable RAG pipelines, and automation workflows </p>
+# 💻 Languages
 
-# 🛠️ Skill Stack
-
-### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,js,go,html,css&theme=dark" />
 
-🐍 Python • ⚡ JavaScript • 🚀 Go • 🌐 HTML • 🎨 CSS
-
-<br>
-
-### 🤖 AI / ML Libraries
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-<img src="https://cdn.simpleicons.org/numpy" width="60"/>
-<img src="https://cdn.simpleicons.org/pandas" width="60"/>
-<img src="https://cdn.simpleicons.org/scikitlearn" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/500px-Matplotlib_icon.svg.png?_=20150311090915" width="60"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
-
-TensorFlow • PyTorch • NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn
-
-<br>
-
-### ⚙️ Frameworks
-
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="70"/>
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="70"/>
-
-Flask • FastAPI
-
-<br>
-
-### 🤖 AI & LLM Stack
-<img src="https://unsloth.ai/cgi/image/unsloth_green_sticker_cME6ryC59BlZg-VtqGN4p.png" width="70"/>
-<img src="https://cdn.simpleicons.org/langchain" width="80"/>
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph-color.png" width="80">
-<img src="https://cdn.simpleicons.org/n8n" width="80"/>
-
-🧠 Unsloth • 🔗 LangChain • 🌐 LangGraph • 📚 RAG • ⚙️ n8n
-
-<br>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="70"/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="70"/>
-<img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-768x509.png" width="80"/>
-
-🍃 MongoDB • 🐘 PostgreSQL • 🔎 ChromaDB
-
-<br>
-
-### 📫 Connect
-
-<a href="https://bsky.app/profile/nayaksomkar.bsky.social">
-<img src="https://cdn.simpleicons.org/bluesky" width="40" />
-</a>
+Python • JavaScript • Go • HTML • CSS
 
 <br><br>
 
-✨ Building Intelligent Systems • One at a Time • @nayaksomkar ✨
+# ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
+
+FastAPI • Flask • APIs • Automation
+
+<br><br>
+
+# 🧠 AI / LLM Stack
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+
+<br><br>
+
+🔗 LangChain • 🌐 LangGraph • 📚 RAG • 🧠 Unsloth • ⚙️ n8n
+
+<br><br>
+
+# 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+
+MongoDB • PostgreSQL • ChromaDB
+
+<br><br>
+
+# ⚡ Current Focus
+
+AI Agents • RAG Systems • Backend Engineering • Workflow Automation • Fine-Tuning
+
+<br>
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://nayaksomkar.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nayaksomkar">
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bsky.app/profile/nayaksomkar.bsky.social">
+<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+```text
+✨ Building Intelligent Systems • One Layer at a Time ✨
+```
+
+<sub>@nayaksomkar</sub>
 
 </div>
