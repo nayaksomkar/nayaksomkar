@@ -1,77 +1,84 @@
 <div align="center">
 
-# ✦ नायक Omkar ✦
-
-### AI Engineer • LLM Systems • Intelligent Automation
-
-> Building scalable AI backends, RAG pipelines, and intelligent workflows.
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhxYTB0eDA1dDM1YTRtNDFjcHgwOGJxcjk4OGp4d290cW8zOHZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27UtynCENEhLgiAmik/giphy.gif" width="200px"/>
 
 <br>
 
-# 💻 Languages
+# ✦ नायक Omkar ✦
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Systems+Developer;AI+Agents+%E2%80%A2+RAG+Systems;Building+Intelligent+Automation" />
+
+<br>
+
+### ⚡ AI Engineer • LLM Systems • Intelligent Automation
+
+> *Building scalable AI backends, RAG pipelines, and intelligent workflows.*
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,go,html,css&theme=dark" />
 
-Python • JavaScript • Go • HTML • CSS
+<br><br>
+
+`Python` ✦ `JavaScript` ✦ `Go` ✦ `HTML` ✦ `CSS`
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker&theme=dark" />
 
 <br><br>
 
-# ⚙️ Backend & APIs
+`FastAPI` ✦ `Flask` ✦ `REST APIs` ✦ `Automation`
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
+</div>
 
-FastAPI • Flask • APIs • Automation
+---
 
-<br><br>
+<div align="center">
 
-# 🧠 AI / LLM Stack
+## 🧠 AI / LLM Stack
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
 <br><br>
 
-🔗 LangChain • 🌐 LangGraph • 📚 RAG • 🧠 Unsloth • ⚙️ n8n
+🔗 LangChain ✦ 🌐 LangGraph ✦ 📚 RAG  
+🧠 Unsloth ✦ ⚙️ n8n ✦ 🤖 AI Agents
 
-<br><br>
+</div>
 
-# 🗄️ Databases
+---
+
+<div align="center">
+
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
-MongoDB • PostgreSQL • ChromaDB
-
 <br><br>
 
-# ⚡ Current Focus
-
-AI Agents • RAG Systems • Backend Engineering • Workflow Automation • Fine-Tuning
-
-<br>
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://nayaksomkar.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nayaksomkar">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://bsky.app/profile/nayaksomkar.bsky.social">
-<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-```text
-✨ Building Intelligent Systems • One Layer at a Time ✨
-```
-
-<sub>@nayaksomkar</sub>
+`MongoDB` ✦ `PostgreSQL` ✦ `ChromaDB`
 
 </div>
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+```txt
+AI Agents • RAG Systems • Backend Engineering
+Workflow Automation • Fine-Tuning • AI Infrastructure
