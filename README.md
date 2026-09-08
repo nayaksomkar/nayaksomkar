@@ -8,77 +8,63 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Systems+Developer;AI+Agents+%E2%80%A2+RAG+Systems;Building+Intelligent+Automation" />
 
+### AI Engineer • LLM Systems • Intelligent Automation
+
+---
+
+<div align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
 <br>
 
-### ⚡ AI Engineer • LLM Systems • Intelligent Automation
+`Python` · `JavaScript` · `HTML` · `CSS`
 
-> *Building scalable AI backends, RAG pipelines, and intelligent workflows.*
+### ⚙️ Frameworks
 
-</div>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react&theme=dark" />
 
----
+<br>
 
-<div align="center">
+`FastAPI` · `Flask` · `React.js`
 
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,go,html,css&theme=dark" />
-
-<br><br>
-
-`Python` ✦ `JavaScript` ✦ `Go` ✦ `HTML` ✦ `CSS`
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker&theme=dark" />
-
-<br><br>
-
-`FastAPI` ✦ `Flask` ✦ `REST APIs` ✦ `Automation`
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 AI / LLM Stack
+### 🧠 AI / LLM
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
-<br><br>
+<br>
 
-🔗 LangChain ✦ 🌐 LangGraph ✦ 📚 RAG  
-🧠 Unsloth ✦ ⚙️ n8n ✦ 🤖 AI Agents
+`LangChain` · `LangGraph` · `RAG` · `Unsloth` · `AI Agents` · `n8n`
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" />
+<img src="https://images.seeklogo.com/logo-png/48/1/chroma-logo-png_seeklogo-482133.png?v=1968860197325010016" height="48" />
+
+<br>
+
+`MySQL` · `PostgreSQL` · `MongoDB` · `SQLite` · `ChromaDB`
+
+### 🛠️ Engineering
+
+<br>
+
+`REST APIs` · `Microservices` · `LLD` · `System Design` · `Codebase Analysis` · `Codebase Integration`
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+
+<br>
+
+`Git` · `GitHub` · `Docker`
+
+### ⚡ Focus
+
+<br>
+
+`AI Agents` · `RAG Systems` · `LLM Applications` · `Backend Engineering` · `Workflow Automation` · `Fine-Tuning` · `AI Infrastructure`
 
 </div>
-
----
-
-<div align="center">
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
-
-<br><br>
-
-`MongoDB` ✦ `PostgreSQL` ✦ `ChromaDB`
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Current Focus
-
-```txt
-AI Agents • RAG Systems • Backend Engineering
-Workflow Automation • Fine-Tuning • AI Infrastructure
