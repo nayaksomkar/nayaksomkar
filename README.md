@@ -29,10 +29,11 @@
 <br>
 
 `FastAPI` · `Flask` · `React.js`
-
 ### 🧠 AI / LLM
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg" height="40" /> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png" height="40" /> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" />
 
 <br>
 
